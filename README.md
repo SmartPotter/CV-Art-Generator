@@ -15,9 +15,9 @@ A creative AI tool that lets you **blend iconic art styles into real-world photo
 
 ## Example Output
 
-| Content Image | Style Image(s) | Stylized Output |
+| Content Image | Style Image | Stylized Output |
 |---------------|----------------|------------------|
-| ![content](assets/images/city.png) | ![style](assets/images/starry.jpg) | ![output](assets/images/paris_generated_at_iteration_2000.png) |
+| ![content](assets/images/city.png) | <img src="assets/images/starry.jpg" width="80"/> | ![output](assets/images/paris_generated_at_iteration_2000.png) |
 
 > Example: St. Basil’s Cathedral styled with *Starry Night* by Vincent van Gogh
 
